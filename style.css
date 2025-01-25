@@ -1,0 +1,54 @@
+.div1{
+    border: ;
+    width: 500px;
+    margin: auto;
+    padding: 5px;
+    border: 5px solid green;
+    border-radius: 20px;
+    
+    
+
+    
+
+}
+.img1{
+    width: 100%;
+    border-radius: 20px;
+    
+    
+    
+    
+}
+.p1{
+    color: red;
+    font-size: 30px;
+}
+.p2{
+    color: pink;
+    border: 1px dashed green;
+    font-size: 20px;
+    padding: 5px;
+}
+.p3{
+    background-color: pink;
+    border: 2px solid black;
+    border-radius: 5px ;
+    padding: 3px;
+}
+.btn1{
+    background-color: yellow;
+    color: green;
+    border: none;
+    padding: 10px;
+    width: 100px;
+    border-radius: 10px;
+}
+.btn2{
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 10px;
+    width: 100px;
+    border-radius: 10px;
+    border: 5px solid red;
+}
